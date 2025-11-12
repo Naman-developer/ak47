@@ -3,7 +3,7 @@
 ## Project info
 
 **URL**: 
-ak47-fawn.vercel.app
+https://ak47-fawn.vercel.app/
 
 ## How can I edit this code?
 
